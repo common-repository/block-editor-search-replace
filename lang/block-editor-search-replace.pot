@@ -1,0 +1,302 @@
+# Block Editor Search & Replace - Effortlessly search and replace text within the Block Editor's content area, with full support for the Classic Editor.
+# Copyright (c) 2024 Block Editor Search & Replace
+# This file is distributed under the same license as the plugin, GPLv2 or later.
+# Krasen Slavov <contact@developry>, 2024.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1\n"
+"Report-Msgid-Bugs-To: Block Editor Search & Replace <contact@developry>\n"
+"POT-Creation-Date: 2023-12-21 10:03+0200\n"
+"PO-Revision-Date: 2024-10-28 10:03+0200\n"
+"Last-Translator: Krasen Slavov <contact@developry>\n"
+"Language-Team: BESNR <contact@developry>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: block-editor-search-replace.php:41
+#: inc/admin/settings/settings-main-page.php:26
+#: inc/admin/settings/settings-menu.php:23
+#: inc/admin/settings/settings-menu.php:33
+msgid "Block Editor Search & Replace"
+msgstr ""
+
+#: inc/admin/requirements/action-links.php:27
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/requirements/action-links.php:30
+#: inc/admin/requirements/pro-plugin.php:70
+msgid "Go Pro"
+msgstr ""
+
+#. translators: %1$s is replaced with "Plugin Name"
+#. translators: %2$s is replaced with "Min PHP Version"
+#. translators: %3$s is replaced with "Min WP Version"
+#: inc/admin/requirements/check-requirements.php:47
+#, php-format
+msgid "%1$s requires a minimum of PHP %2$s and WordPress %3$s"
+msgstr ""
+
+#. translators: %1$s is replaced with "PHP Version"
+#. translators: %2$s is replaced with "WordPress Version"
+#: inc/admin/requirements/check-requirements.php:59
+#, php-format
+msgid "You are currently running PHP %1$s and WordPress %2$s."
+msgstr ""
+
+#. translators: %1$s is replaced with by giving it 5 stars rating
+#: inc/admin/requirements/notice-rating.php:31
+#, php-format
+msgid ""
+"✨💪🔌 Could you please kindly help the plugin in your turn %1$s? (Thank you in "
+"advance)"
+msgstr ""
+
+#: inc/admin/requirements/notice-rating.php:34
+msgid "by giving it 5 stars rating"
+msgstr ""
+
+#: inc/admin/requirements/notice-rating.php:40
+msgid "Rate us @ WordPress.org"
+msgstr ""
+
+#: inc/admin/requirements/notice-rating.php:44
+#: inc/admin/requirements/pro-plugin.php:74
+msgid "I already did"
+msgstr ""
+
+#: inc/admin/requirements/notice-rating.php:47
+#: inc/admin/requirements/pro-plugin.php:77
+msgid "Don't show this notice again!"
+msgstr ""
+
+#: inc/admin/requirements/pro-plugin.php:40
+msgid "Block Editor Search & Replace PRO 🚀"
+msgstr ""
+
+#. translators: %1$s is replaced with Found the free version helpful
+#. translators: %2$s is replaced with Block Editor Search & Replace Pro
+#: inc/admin/requirements/pro-plugin.php:47
+#, php-format
+msgid ""
+"✨🎉📢 %1$s? Would you be interested in learning more about the benefits of "
+"upgrading to the %2$s?"
+msgstr ""
+
+#: inc/admin/requirements/pro-plugin.php:50
+msgid "Found the free version helpful"
+msgstr ""
+
+#: inc/admin/requirements/pro-plugin.php:51
+msgid "Block Editor Search & Replace Pro"
+msgstr ""
+
+#: inc/admin/search-replace/search-replace-actions.php:36
+#: inc/admin/search-replace/search-replace-actions.php:173
+#: inc/admin/search-replace/search-replace-actions.php:244
+#: inc/admin/search-replace/search-replace-actions.php:285
+msgid "Post ID not found!"
+msgstr ""
+
+#: inc/admin/search-replace/search-replace-actions.php:44
+msgid "Cannot run search replace with empty search phrase!"
+msgstr ""
+
+#: inc/admin/search-replace/search-replace-actions.php:52
+#: inc/admin/search-replace/search-replace-actions.php:189
+msgid "Minimum 3 characters for your search text!"
+msgstr ""
+
+#: inc/admin/search-replace/search-replace-actions.php:65
+#: inc/admin/search-replace/search-replace-actions.php:138
+#: inc/admin/search-replace/search-replace-actions.php:220
+#: inc/admin/search-replace/search-replace-actions.php:263
+msgid "Unexpected error! Post content was not updated!"
+msgstr ""
+
+#: inc/admin/search-replace/search-replace-actions.php:144
+msgid "No results found!"
+msgstr ""
+
+#: inc/admin/search-replace/search-replace-actions.php:181
+msgid "Cannot run search replace with empty search or replace phrases!"
+msgstr ""
+
+#: inc/admin/search-replace/search-replace-actions.php:197
+msgid "Minimum 3 characters for your replace with text!"
+msgstr ""
+
+#: inc/admin/search-replace/search-replace-actions.php:257
+msgid "All custom tags were removed successfully!"
+msgstr ""
+
+#: inc/admin/settings/compact-mode.php:38
+msgid "Enable compact mode and move the plugin main link to sub menu."
+msgstr ""
+
+#: inc/admin/settings/compact-mode.php:65
+msgid "Compact mode option was updated successfully."
+msgstr ""
+
+#: inc/admin/settings/editors-supported.php:43
+msgid "Select supported editors for the search and replace."
+msgstr ""
+
+#: inc/admin/settings/editors-supported.php:70
+msgid "Supported editors option was updated successfully."
+msgstr ""
+
+#: inc/admin/settings/full-text-support.php:38
+msgid "Enable full-text support for the search and replace."
+msgstr ""
+
+#: inc/admin/settings/full-text-support.php:65
+msgid "Full-text support option was updated successfully."
+msgstr ""
+
+#: inc/admin/settings/settings-actions.php:31
+msgid "All options were reset to their default values."
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:33
+msgid ""
+"Effortlessly search and replace text within the Block Editor's content area, "
+"with full support for the Classic Editor."
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:55
+msgid "Save"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:63
+#: inc/admin/views/classic-editor-meta-box.php:88
+msgid "Reset"
+msgstr ""
+
+#. translators: %1$s is replaced with "Link to WP.org support forums"
+#: inc/admin/settings/settings-main-page.php:78
+#, php-format
+msgid ""
+"If something is not clear, please open a ticket on the official plugin %1$s. "
+"All tickets should be addressed within a couple of working days."
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:81
+msgid "Support Forum"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:86
+msgid "Please rate us"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:92
+msgid "Having issues?"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:94
+msgid "Create a Support Ticket"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:98
+msgid "Developed by"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:100
+msgid "Krasen Slavov @ Developry"
+msgstr ""
+
+#. translators: %1$s is replaced with "Link to Patreon"
+#: inc/admin/settings/settings-main-page.php:113
+#, php-format
+msgid ""
+"* For the price of a cup of coffee per month, you can help and support me on "
+"%1$s in continuing to develop and maintain all of my free WordPress plugins, "
+"every little bit helps and is greatly appreciated!"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:116
+msgid "Patreon"
+msgstr ""
+
+#: inc/admin/settings/settings-menu.php:24
+#: inc/admin/settings/settings-menu.php:34
+#: inc/library/class-block-editor-search-replace.php:146
+msgid "Search & Replace"
+msgstr ""
+
+#: inc/admin/settings/settings-page.php:34
+msgid "Editors Supported"
+msgstr ""
+
+#: inc/admin/settings/settings-page.php:45
+msgid "Types Supported"
+msgstr ""
+
+#: inc/admin/settings/settings-page.php:56
+msgid "Full-text Support"
+msgstr ""
+
+#: inc/admin/settings/settings-page.php:67
+msgid "Compact Mode"
+msgstr ""
+
+#: inc/admin/settings/types-supported.php:47
+msgid "Select supported types for the search and replace."
+msgstr ""
+
+#: inc/admin/settings/types-supported.php:74
+msgid "Supported types option was updated successfully."
+msgstr ""
+
+#: inc/admin/views/classic-editor-meta-box.php:4
+msgid ""
+"The search and replace plugin will help you find any text inside the Classic "
+"Editor content area and change with the replacement value."
+msgstr ""
+
+#: inc/admin/views/classic-editor-meta-box.php:37
+msgid "Highlight text on search"
+msgstr ""
+
+#: inc/admin/views/classic-editor-meta-box.php:50
+msgid "Case sensitive search & replace"
+msgstr ""
+
+#: inc/admin/views/classic-editor-meta-box.php:61
+msgid "Enter you search phrase..."
+msgstr ""
+
+#: inc/admin/views/classic-editor-meta-box.php:71
+msgid "Enter your replace with phrase..."
+msgstr ""
+
+#: inc/admin/views/classic-editor-meta-box.php:81
+msgid "Replace"
+msgstr ""
+
+#. translators: %1$s is replaced with Invalid security token
+#. translators: %2$s is replaced with link to Support email
+#: inc/library/class-besnr-admin.php:76
+#, php-format
+msgid "%1$s! Contact us @ %2$s."
+msgstr ""
+
+#: inc/library/class-besnr-admin.php:78
+msgid "Invalid security token"
+msgstr ""
+
+#. translators: %1$s is replaced with Access denied
+#: inc/library/class-besnr-admin.php:109
+#, php-format
+msgid ""
+"%1$s! Current user does not have the capabilities to access this function."
+msgstr ""
+
+#: inc/library/class-besnr-admin.php:110
+msgid "Access denied"
+msgstr ""
